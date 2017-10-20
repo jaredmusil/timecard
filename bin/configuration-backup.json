@@ -1,0 +1,697 @@
+{
+    "selection" : 0,
+    "schedules" : [
+        {
+            "name" : "5x8:00  - Monday through Friday - 40:00",
+            "week" : [
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "8:00",
+                                "tuesday" : "8:00",
+                                "wednesday" : "8:00",
+                                "thursday" : "8:00",
+                                "friday" : "8:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : "12:00"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:30",
+                                "tuesday" : "12:30",
+                                "wednesday" : "12:30",
+                                "thursday" : "12:30",
+                                "friday" : "12:30"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "16:30",
+                                "tuesday" : "16:30",
+                                "wednesday" : "16:30",
+                                "thursday" : "16:30",
+                                "friday" : "16:30"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "instance" : [
+                         {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "8:00",
+                                "tuesday" : "8:00",
+                                "wednesday" : "8:00",
+                                "thursday" : "8:00",
+                                "friday" : "8:00"
+                            },
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : "12:00"
+                            }
+                        },
+                        {
+                            "in": {
+                                "saturday": "",
+                                "sunday": "",
+                                "monday": "12:30",
+                                "tuesday": "12:30",
+                                "wednesday": "12:30",
+                                "thursday": "12:30",
+                                "friday": "12:30"
+                            },
+                            "out": {
+                                "saturday": "",
+                                "sunday": "",
+                                "monday": "16:30",
+                                "tuesday": "16:30",
+                                "wednesday": "16:30",
+                                "thursday": "16:30",
+                                "friday": "16:30"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "5x7:45  - Monday through Friday - 38:45",
+            "week" : [
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "8:00",
+                                "tuesday" : "8:00",
+                                "wednesday" : "8:00",
+                                "thursday" : "8:00",
+                                "friday" : "8:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "11:30",
+                                "tuesday" : "11:30",
+                                "wednesday" : "11:30",
+                                "thursday" : "11:30",
+                                "friday" : "11:30"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : "12:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "16:15",
+                                "tuesday" : "16:15",
+                                "wednesday" : "16:15",
+                                "thursday" : "16:15",
+                                "friday" : "16:15"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "8:00",
+                                "tuesday" : "8:00",
+                                "wednesday" : "8:00",
+                                "thursday" : "8:00",
+                                "friday" : "8:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "11:30",
+                                "tuesday" : "11:30",
+                                "wednesday" : "11:30",
+                                "thursday" : "11:30",
+                                "friday" : "11:30"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : "12:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "16:15",
+                                "tuesday" : "16:15",
+                                "wednesday" : "16:15",
+                                "thursday" : "16:15",
+                                "friday" : "16:15"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "4x10:00  - Monday through Thursday - 40:00",
+            "week" : [
+                {
+                    "instance" : [
+                         {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "6:30",
+                                "tuesday" : "6:30",
+                                "wednesday" : "6:30",
+                                "thursday" : "6:30",
+                                "friday" : ""
+                            },
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:30",
+                                "tuesday" : "12:30",
+                                "wednesday" : "12:30",
+                                "thursday" : "12:30",
+                                "friday" : ""
+                            },
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "17:00",
+                                "tuesday" : "17:00",
+                                "wednesday" : "17:00",
+                                "thursday" : "17:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "6:30",
+                                "tuesday" : "6:30",
+                                "wednesday" : "6:30",
+                                "thursday" : "6:30",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:30",
+                                "tuesday" : "12:30",
+                                "wednesday" : "12:30",
+                                "thursday" : "12:30",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "17:00",
+                                "tuesday" : "17:00",
+                                "wednesday" : "17:00",
+                                "thursday" : "17:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "5x8:30 - Every other Friday off - 40:00",
+            "week" : [
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "7:00",
+                                "tuesday" : "7:00",
+                                "wednesday" : "7:00",
+                                "thursday" : "7:00",
+                                "friday" : "7:00"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : "12:00"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:30",
+                                "tuesday" : "12:30",
+                                "wednesday" : "12:30",
+                                "thursday" : "12:30",
+                                "friday" : "12:30"
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "16:00",
+                                "tuesday" : "16:00",
+                                "wednesday" : "16:00",
+                                "thursday" : "16:00",
+                                "friday" : "16:00"
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "instance" : [
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "7:00",
+                                "tuesday" : "7:00",
+                                "wednesday" : "7:00",
+                                "thursday" : "7:00",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:00",
+                                "tuesday" : "12:00",
+                                "wednesday" : "12:00",
+                                "thursday" : "12:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "12:30",
+                                "tuesday" : "12:30",
+                                "wednesday" : "12:30",
+                                "thursday" : "12:30",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "16:00",
+                                "tuesday" : "16:00",
+                                "wednesday" : "16:00",
+                                "thursday" : "16:00",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        },
+                        {
+                            "in" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }, 
+                            "out" : {
+                                "saturday" : "",
+                                "sunday" : "",
+                                "monday" : "",
+                                "tuesday" : "",
+                                "wednesday" : "",
+                                "thursday" : "",
+                                "friday" : ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
